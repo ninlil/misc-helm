@@ -1,5 +1,10 @@
 # Misc Helm-charts
 
+Add the chart repo:
+```sh
+helm repo add misc-helm https://ninlil.github.io/misc-helm
+```
+
 ## 'blank' - a BYOO (bring-your-own-objects) chart
 
 ```yaml
